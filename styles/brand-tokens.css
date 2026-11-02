@@ -1,0 +1,12 @@
+/* Proposta para revisão — não instalado no Nextcloud.
+   Tokens de referência; exigem mapeamento para as interfaces suportadas. */
+:root {
+  --aggilli-primary: #0866F5;
+  --aggilli-secondary: #0049C7;
+  --aggilli-cyan: #08C9F2;
+  --aggilli-navy: #061B3A;
+  --aggilli-surface: #EAF5FF;
+  --aggilli-white: #FFFFFF;
+  --aggilli-text: #10213B;
+  --aggilli-font: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}

@@ -1,0 +1,22 @@
+# Credenciais e configuração operacional
+.env
+.env.*
+!.env.example
+.aws/
+*.pem
+*.key
+config.php
+*.config.php
+# Dados, backups e logs
+data/
+backups/
+branding-backups/
+*.sql
+*.sql.gz
+*.dump
+*.log
+# Ambiente local
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
