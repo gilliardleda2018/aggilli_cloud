@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "base_url": "https://nuvem.aggillintelligence.com.br",
+  "nextcloud_version_observed": "35.0.2",
+  "values": {
+    "name": "Nuvem Aggilli",
+    "slogan": "Seus dados, seu controle, em qualquer lugar.",
+    "primary_color": "#0866F5"
+  },
+  "images": {
+    "logo": "assets/brand/nuvem-aggilli-transparente.png",
+    "logoheader": "assets/brand/nuvem-aggilli-transparente.png"
+  },
+  "assets": {
+    "assets/brand/nuvem-aggilli-transparente.png": {
+      "sha256": "0b9b0aaeb4adb0c648c3757c95a6169b01e44738ed5d3e486b7ad7e1e97e9bd3",
+      "width": 1774,
+      "height": 887,
+      "format": "PNG",
+      "color_type": "RGBA"
+    }
+  }
+}
